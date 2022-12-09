@@ -44,3 +44,10 @@ npm install dotenv-webpack -D
 Se crea un .env que tiene las variables y no forma parte del repositorio
 Se crea un .env-example que tiene los ejemplos de las variables
 
+# Limpiar webpack
+
+npm install clean-webpack-plugin -D
+
+# Se crea un archivo para poner en produccion
+
+netlify.tom
